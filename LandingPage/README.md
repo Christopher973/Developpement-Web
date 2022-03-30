@@ -1,6 +1,6 @@
 # Landing Page 
 
-Page HTML responsive qui représente le hero d'un site web
+Page HTML responsive qui reprÃ©sente le hero d'un site web
 
 ## Status 
 
@@ -8,6 +8,6 @@ Page HTML responsive qui représente le hero d'un site web
 * [ ] Version Responsive
 * [ ] Bouton responsive
 
-## Liens de la vidéos 
+## Liens de la vidÃ©os 
 
-https://www.youtube.com/watch?v=JYWitDwHhxE[Cliquer pour être rediriger^]
+https://www.youtube.com/watch?v=JYWitDwHhxE
