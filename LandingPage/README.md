@@ -5,8 +5,8 @@ Page HTML responsive qui représente le hero d'un site web
 ## Status 
 
 * [x] Version Desktop
-* [x] Version Responsive
-* [x] Bouton responsive
+* [ ] Version Responsive
+* [ ] Bouton responsive
 
 ## Liens de la vidéos 
 
