@@ -131,15 +131,3 @@
     footer img:hover {
         transform: translateY(-15px);
     }
-    
-    .circle-vert {
-        background: #005C20;
-    }
-    
-    .circle-rose {
-        background: #eb7495;
-    }
-    
-    .circle-violet {
-        background: #d752b1;
-    }
