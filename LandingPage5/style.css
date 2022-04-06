@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    background: url(img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 100px 0 100px;
+    align-items: center;
+}
+
+nav .logo h1 {
+    font-size: 25px;
+    color: #D19DFF;
+    font-weight: 550;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.navbar ul li {
+    display: inline;
+    margin-left: 30px;
+    align-items: center;
+}
+
+.navbar a {
+    font-size: 20px;
+    color: #fff;
+}
+
+.navbar .nav-btn {
+    color: #D19DFF;
+    border: 2px solid #D19DFF;
+    padding: 5px 10px 5px 10px;
+    border-radius: 10px;
+}
+
+.content {
+    margin: 150px 0 0 100px;
+    display: flex;
+}
+
+.text {
+    max-width: 600px;
+}
+
+.text .title p {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+
+.text .title span {
+    color: #D19DFF;
+    font-weight: 550;
+}
+
+.text .paragraph p {
+    font-size: 17px;
+    margin-bottom: 30px;
+    color: #fff;
+}
+
+.text .btn {
+    padding: 10px 5px 10px 5px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 17px;
+    width: 150px;
+    background: blueviolet;
+    border: 2px solid blueviolet;
+    margin-bottom: 60px;
+}
+
+.text .btn a {
+    color: #fff;
+}
+
+.img {
+    margin-left: 250px;
+}
+
+.img img {
+    width: 300px;
+}

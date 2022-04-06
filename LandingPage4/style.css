@@ -52,7 +52,7 @@ main {
 
 .content {
     display: flex;
-    margin: 150px 0 0 100px;
+    margin: 100px 0 0 100px;
 }
 
 .text {
@@ -102,4 +102,8 @@ label input {
 
 .img {
     margin-left: 100px;
+}
+
+.textarea {
+    padding-bottom: 80px;
 }
