@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    font-family: 'Heebo', sans-serif;
+}
+
+.navbar ul li{
+    display: inline-block;
+    text-align: right;
+    padding: 0 20px;
+}
+
+.navbar{
+    text-align: right;
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 0 60px;
+}
+
+.navbar a{
+    color: #111;
+    font-weight: 500;
+    transition: color .3s ease;
+}
+
+.navbar a:hover{
+    color: #FF6464;
+}
+
+.hero{
+    display: flex;
+    margin-top: 160px;
+    margin-right: 150px;
+    margin-left: 150px;
+    justify-content: space-around;
+}
+
+.hero .title{
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 60px;
+}
+
+
+.hero .paragraph{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+
+.hero .button{
+    background: #FF6464;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 20px;
+    font-weight: 500;
+    transition: all .3s ease;
+    cursor: pointer;
+}
+
+.hero .button:hover{
+    background: #FF4F4F;
+}
+
+.hero-content{
+    width: 495px;
+}
+
+.hero-image img{
+    border-radius: 50%;
+    width: 255px;
+    height: 260px;
+}
